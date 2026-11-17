@@ -15,7 +15,7 @@ Pre-launch. The software is running; the controllers are at PCB design stage. Pr
 ## Free tools
 
 - [Session Naming Check](https://lang3.co/tools/session-check/) — export Session Info as Text from Pro Tools, paste it in, get a report on naming inconsistencies. Runs in the browser, nothing uploaded.
-- [Delay & Reverb Calculator](https://lang3.co/tools/bpm-calculator/) — time-based plug-in settings from tempo and vocal type.
+- [Tempo Reference Calculator](https://lang3.co/tools/bpm-calculator/) — compressor, reverb, delay and gate settings derived from the tempo you're working at. Vocal type (tube / solid state) splits the compression ranges.
 
 ## Elsewhere
 
