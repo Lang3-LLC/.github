@@ -14,8 +14,10 @@ Pre-launch. The software is running; the controllers are at PCB design stage. Pr
 
 ## Free tools
 
-- [Session Naming Check](https://lang3.co/tools/session-check/) — export Session Info as Text from Pro Tools, paste it in, get a report on naming inconsistencies. Runs in the browser, nothing uploaded.
-- [Tempo Reference Calculator](https://lang3.co/tools/bpm-calculator/) — compressor, reverb, delay and gate settings derived from the tempo you're working at. Vocal type (tube / solid state) splits the compression ranges.
+- [Session Naming Check](https://lang3.co/tools/session-check/) ([source](https://github.com/Lang3-LLC/session-naming-check)) — export Session Info as Text from Pro Tools, paste it in, get a report on naming inconsistencies. Runs in the browser, nothing uploaded.
+- [Tempo Reference Calculator](https://lang3.co/tools/bpm-calculator/) ([source](https://github.com/Lang3-LLC/tempo-reference-calculator)) — compressor, reverb, delay and gate settings derived from the tempo you're working at. Vocal type (tube / solid state) splits the compression ranges.
+
+Both are MIT. Reading the code is the point: one shows what it can't see in an export, the other shows where every number comes from.
 
 ## Elsewhere
 
